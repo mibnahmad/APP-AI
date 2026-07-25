@@ -1,0 +1,11 @@
+[
+  { "href": "/", "label": "Home" },
+  { "href": "/generate", "label": "Generate" },
+  { "href": "/gallery", "label": "Gallery" },
+  { "href": "/style-library", "label": "Style Library" },
+  { "href": "/collections", "label": "Collections" },
+  { "href": "/pricing", "label": "Pricing" },
+  { "href": "/about", "label": "About" },
+  { "href": "/faq", "label": "FAQ" },
+  { "href": "/contact", "label": "Contact" }
+]

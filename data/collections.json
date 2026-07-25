@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Bedroom Collection",
+    "description": "Soft compositions designed for slower mornings and calmer nights.",
+    "cover": "https://picsum.photos/seed/collection-bedroom/1600/1200",
+    "artCount": "24 pieces"
+  },
+  {
+    "title": "Living Room Collection",
+    "description": "Statement works balanced for layered, elevated interiors.",
+    "cover": "https://picsum.photos/seed/collection-living/1600/1200",
+    "artCount": "31 pieces"
+  },
+  {
+    "title": "Office Collection",
+    "description": "Focused palettes and clean form for creative concentration.",
+    "cover": "https://picsum.photos/seed/collection-office/1600/1200",
+    "artCount": "18 pieces"
+  },
+  {
+    "title": "Neutral Collection",
+    "description": "Quiet tonal layers for soft, editorial homes.",
+    "cover": "https://picsum.photos/seed/collection-neutrals/1600/1200",
+    "artCount": "20 pieces"
+  },
+  {
+    "title": "Luxury Collection",
+    "description": "Refined artwork tailored to high-end styling moments.",
+    "cover": "https://picsum.photos/seed/collection-luxury/1600/1200",
+    "artCount": "22 pieces"
+  },
+  {
+    "title": "Modern Collection",
+    "description": "Architectural pieces with confident, current energy.",
+    "cover": "https://picsum.photos/seed/collection-modern/1600/1200",
+    "artCount": "17 pieces"
+  },
+  {
+    "title": "Nature Collection",
+    "description": "Organic artwork with calm botanical direction.",
+    "cover": "https://picsum.photos/seed/collection-nature/1600/1200",
+    "artCount": "15 pieces"
+  },
+  {
+    "title": "Abstract Collection",
+    "description": "Collected abstracts that feel sculptural, calm, and enduring.",
+    "cover": "https://picsum.photos/seed/collection-abstract/1600/1200",
+    "artCount": "28 pieces"
+  },
+  {
+    "title": "Editorial Collection",
+    "description": "Bold statement pieces built for magazine-worthy interiors.",
+    "cover": "https://picsum.photos/seed/collection-editorial/1600/1200",
+    "artCount": "14 pieces"
+  }
+]

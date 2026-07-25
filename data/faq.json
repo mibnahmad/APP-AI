@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is LUMEA AI?",
+    "answer": "LUMEA AI is a premium static MVP for generating digital wall art concepts from a prompt, then previewing the result inside luxury interior scenes."
+  },
+  {
+    "question": "Does this version use a real image generation API?",
+    "answer": "Not yet. The current experience is fully frontend-based and uses mocked generation flows so the product can ship as a lightweight static MVP."
+  },
+  {
+    "question": "Can I use the images commercially?",
+    "answer": "This MVP is designed for concepting and product validation. Commercial licensing can be added later when a real generation backend and plan terms are introduced."
+  },
+  {
+    "question": "Are the downloads high resolution?",
+    "answer": "The UI models quality tiers and download actions for a future production workflow. In this MVP, downloads use static mock artwork assets."
+  },
+  {
+    "question": "Can I print the artwork?",
+    "answer": "Yes in the future roadmap. This version focuses on digital generation, preview, and a polished experience that can later connect to print-on-demand."
+  },
+  {
+    "question": "What styles are available?",
+    "answer": "You can explore Scandinavian, Minimal, Japandi, Abstract, Luxury, Nature, Modern, Office, Bedroom, Living Room, Nursery, and Black & White directions."
+  },
+  {
+    "question": "How does generation work?",
+    "answer": "Write a prompt, choose a style, set room and quality preferences, then run a mocked generation flow that returns a concept image and interior preview."
+  },
+  {
+    "question": "Can I save my creations?",
+    "answer": "Yes. Favorites, recent prompts, and recent generations are stored locally in the browser using localStorage."
+  }
+]

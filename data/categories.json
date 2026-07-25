@@ -1,0 +1,41 @@
+{
+  "styleOptions": [
+    "Abstract",
+    "Scandinavian",
+    "Minimal",
+    "Japandi",
+    "Luxury",
+    "Nature",
+    "Modern",
+    "Black & White",
+    "Nursery",
+    "Bedroom",
+    "Office",
+    "Living Room"
+  ],
+  "formatOptions": ["Square", "Portrait", "Landscape", "Poster", "Canvas"],
+  "aspectRatioOptions": ["1:1", "4:5", "16:9", "2:3"],
+  "orientationOptions": ["Portrait", "Landscape", "Square"],
+  "frameStyleOptions": ["Black", "Oak", "White", "Brass", "Gallery Shadow"],
+  "surfaceOptions": ["Canvas", "Poster"],
+  "qualityOptions": ["Standard", "High", "Ultra"],
+  "roomOptions": [
+    "Bedroom",
+    "Living Room",
+    "Office",
+    "Hallway",
+    "Gallery Wall",
+    "Luxury Hotel Suite",
+    "Minimal Scandinavian Apartment",
+    "Modern Penthouse"
+  ],
+  "moodOptions": [
+    "Soft Sand",
+    "Warm Ivory",
+    "Earth Tone",
+    "Moody Charcoal",
+    "Olive Mist",
+    "Clay Rose",
+    "Ocean Haze"
+  ]
+}

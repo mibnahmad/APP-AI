@@ -1,0 +1,63 @@
+{
+  "trustIndicators": [
+    "Museum Quality",
+    "Print Ready",
+    "Instant Download",
+    "Loved by Interior Designers"
+  ],
+  "heroMetrics": [
+    { "label": "Styles ready", "value": "12" },
+    { "label": "Room previews", "value": "8" },
+    { "label": "Avg. concept time", "value": "< 30s" }
+  ],
+  "useCases": [
+    "Find the right focal piece for a bedroom or living room",
+    "Build curated art packs for social or client moodboards",
+    "Generate calm office art that fits your palette instantly",
+    "Create custom printable art without scrolling endless marketplaces"
+  ],
+  "howItWorks": [
+    {
+      "title": "Describe your idea",
+      "description": "Write a prompt, choose a style, and tune the visual settings to match your room."
+    },
+    {
+      "title": "Generate refined artwork",
+      "description": "Use the OpenAI-ready generation pipeline to turn interior inspiration into polished wall art concepts."
+    },
+    {
+      "title": "Preview before you commit",
+      "description": "Explore room previews, compare changes, and only pay when the artwork feels worth printing."
+    }
+  ],
+  "newsletter": {
+    "eyebrow": "Newsletter",
+    "title": "Get prompt ideas, new styles, and launch updates.",
+    "description": "A quiet, useful email for people who care about beautiful interiors and smarter creative tools.",
+    "placeholder": "Enter your email",
+    "buttonLabel": "Join the list"
+  },
+  "generationStages": [
+    { "progress": 18, "label": "Understanding your prompt" },
+    { "progress": 42, "label": "Composing the artwork" },
+    { "progress": 68, "label": "Applying premium textures" },
+    { "progress": 88, "label": "Creating room previews" },
+    { "progress": 100, "label": "Finalizing artwork" }
+  ],
+  "mockupScenes": [
+    { "label": "Bedroom wall mockup", "image": "https://picsum.photos/seed/scene-bedroom/1600/1200" },
+    { "label": "Living room wall mockup", "image": "https://picsum.photos/seed/scene-living/1600/1200" },
+    { "label": "Office wall mockup", "image": "https://picsum.photos/seed/scene-office/1600/1200" },
+    { "label": "Hallway mockup", "image": "https://picsum.photos/seed/scene-hallway/1600/1200" },
+    { "label": "Gallery wall mockup", "image": "https://picsum.photos/seed/scene-gallery/1600/1200" },
+    { "label": "Luxury hotel suite", "image": "https://picsum.photos/seed/scene-hotel/1600/1200" },
+    { "label": "Minimal Scandinavian apartment", "image": "https://picsum.photos/seed/scene-scandinavian/1600/1200" },
+    { "label": "Modern penthouse", "image": "https://picsum.photos/seed/scene-penthouse/1600/1200" }
+  ],
+  "purchaseTrust": [
+    "Instant Download",
+    "300 DPI",
+    "Museum Quality",
+    "Ready for Professional Printing"
+  ]
+}

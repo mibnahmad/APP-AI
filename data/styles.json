@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Scandinavian",
+    "slug": "scandinavian",
+    "shortDescription": "Quiet geometry, air, and restrained elegance.",
+    "mood": "Light, refined, calm",
+    "bestRoom": "Bedroom",
+    "bestUseCase": "Bright bedrooms and serene living spaces.",
+    "paletteHint": "Birch, chalk, oatmeal",
+    "preview": "https://picsum.photos/seed/style-scandinavian/1200/1500"
+  },
+  {
+    "name": "Minimal",
+    "slug": "minimal",
+    "shortDescription": "Negative space and disciplined composition.",
+    "mood": "Clean, gallery-like, still",
+    "bestRoom": "Office",
+    "bestUseCase": "Workspaces and pared-back interiors.",
+    "paletteHint": "Stone, bone, fog",
+    "preview": "https://picsum.photos/seed/style-minimal/1200/1500"
+  },
+  {
+    "name": "Japandi",
+    "slug": "japandi",
+    "shortDescription": "Organic balance with tactile simplicity.",
+    "mood": "Soft, grounded, warm",
+    "bestRoom": "Bedroom",
+    "bestUseCase": "Bedrooms, boutique rentals, and calming studios.",
+    "paletteHint": "Limestone, oak, almond",
+    "preview": "https://picsum.photos/seed/style-japandi/1200/1500"
+  },
+  {
+    "name": "Abstract",
+    "slug": "abstract",
+    "shortDescription": "Museum-inspired abstraction with soft contrast.",
+    "mood": "Editorial, sculptural, quiet",
+    "bestRoom": "Living Room",
+    "bestUseCase": "Statement art above sofas and entry consoles.",
+    "paletteHint": "Sand, smoke, putty",
+    "preview": "https://picsum.photos/seed/style-abstract/1200/1500"
+  },
+  {
+    "name": "Luxury",
+    "slug": "luxury",
+    "shortDescription": "Refined composition with dramatic elegance.",
+    "mood": "Confident, rich, elevated",
+    "bestRoom": "Living Room",
+    "bestUseCase": "Large-format focal points and premium interiors.",
+    "paletteHint": "Taupe, espresso, champagne",
+    "preview": "https://picsum.photos/seed/style-luxury/1200/1500"
+  },
+  {
+    "name": "Nature",
+    "slug": "nature",
+    "shortDescription": "Botanical softness tailored for modern homes.",
+    "mood": "Fresh, soft, organic",
+    "bestRoom": "Living Room",
+    "bestUseCase": "Bedrooms, wellness rooms, and sunlit corners.",
+    "paletteHint": "Sage, parchment, clay",
+    "preview": "https://picsum.photos/seed/style-nature/1200/1500"
+  },
+  {
+    "name": "Modern",
+    "slug": "modern",
+    "shortDescription": "Architectural shapes with a clean, current edge.",
+    "mood": "Smart, polished, composed",
+    "bestRoom": "Studio",
+    "bestUseCase": "Creative studios and contemporary homes.",
+    "paletteHint": "Mist blue, shell, slate",
+    "preview": "https://picsum.photos/seed/style-modern/1200/1500"
+  },
+  {
+    "name": "Office",
+    "slug": "office",
+    "shortDescription": "Focused compositions built for clarity and flow.",
+    "mood": "Calm, focused, intentional",
+    "bestRoom": "Office",
+    "bestUseCase": "Home offices and founder workspaces.",
+    "paletteHint": "Mist, ash, warm white",
+    "preview": "https://picsum.photos/seed/style-office/1200/1500"
+  },
+  {
+    "name": "Bedroom",
+    "slug": "bedroom",
+    "shortDescription": "Soft tonal work for slower mornings and evenings.",
+    "mood": "Warm, restorative, quiet",
+    "bestRoom": "Bedroom",
+    "bestUseCase": "Master suites and hotel-inspired bedrooms.",
+    "paletteHint": "Clay, oat, alabaster",
+    "preview": "https://picsum.photos/seed/style-bedroom/1200/1500"
+  },
+  {
+    "name": "Living Room",
+    "slug": "living-room",
+    "shortDescription": "Layered pieces designed to anchor the room.",
+    "mood": "Collected, premium, poised",
+    "bestRoom": "Living Room",
+    "bestUseCase": "Statement walls and editorial seating areas.",
+    "paletteHint": "Bronze, parchment, graphite",
+    "preview": "https://picsum.photos/seed/style-living-room/1200/1500"
+  },
+  {
+    "name": "Nursery",
+    "slug": "nursery",
+    "shortDescription": "Playful softness without losing visual restraint.",
+    "mood": "Gentle, warm, joyful",
+    "bestRoom": "Nursery",
+    "bestUseCase": "Nurseries and family spaces.",
+    "paletteHint": "Powder blue, blush, cream",
+    "preview": "https://picsum.photos/seed/style-nursery/1200/1500"
+  },
+  {
+    "name": "Black & White",
+    "slug": "black-white",
+    "shortDescription": "Architectural contrast with gallery confidence.",
+    "mood": "Sharp, modern, timeless",
+    "bestRoom": "Gallery Wall",
+    "bestUseCase": "Monochrome homes, offices, and statement corners.",
+    "paletteHint": "Ink, stone, ivory",
+    "preview": "https://picsum.photos/seed/style-monochrome/1200/1500"
+  }
+]

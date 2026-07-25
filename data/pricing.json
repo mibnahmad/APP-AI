@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Starter",
+    "credits": "5 Art Credits",
+    "badge": "Perfect for occasional creators",
+    "price": "€9.99",
+    "description": "A light Art Credit pack for unlocking the occasional piece you genuinely want to print.",
+    "cta": "Choose Starter",
+    "features": [
+      "5 one-time artwork unlocks",
+      "Print-ready export package",
+      "PNG + JPG + PDF",
+      "Multiple print sizes",
+      "Credits never expire"
+    ]
+  },
+  {
+    "name": "Creator",
+    "credits": "15 Art Credits",
+    "badge": "Most Popular",
+    "price": "€24.99",
+    "savings": "Save 17%",
+    "description": "The best balance between value and flexibility for creators designing rooms with intent.",
+    "cta": "Choose Creator",
+    "featured": true,
+    "features": [
+      "15 one-time artwork unlocks",
+      "300 DPI print-ready files",
+      "Poster and canvas formats",
+      "Frame preview package",
+      "No watermark"
+    ]
+  },
+  {
+    "name": "Studio",
+    "credits": "40 Art Credits",
+    "badge": "Best Value",
+    "price": "€49.99",
+    "savings": "Save 37%",
+    "description": "Built for interior designers, repeat buyers, and studio workflows that need flexible output.",
+    "cta": "Choose Studio",
+    "features": [
+      "40 one-time artwork unlocks",
+      "Lowest cost per artwork",
+      "Complete print-ready bundle",
+      "Premium room preview package",
+      "Credits never expire"
+    ]
+  }
+]
